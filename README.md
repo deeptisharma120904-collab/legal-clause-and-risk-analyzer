@@ -1,4 +1,4 @@
-# ⚖️ Legal Contract Clause Analyzer — NLU + NLG with Fine-Tuned LLM
+# ⚖️ Legal Clause and Risk Analyzer — NLU + NLG with Fine-Tuned LLM
 
 > **A fine-tuned 3B parameter LLM that reads legal contracts, classifies clause types (41 categories), assesses risk levels, and rewrites complex legal language in plain English** — improving **risk assessment accuracy from 0% → 100%** compared to the base model, while running at **zero inference cost** on a free-tier GPU.
 
