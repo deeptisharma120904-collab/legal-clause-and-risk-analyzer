@@ -492,17 +492,6 @@ before_finetuning_baseline.ipynb + quick_demo.ipynb
 
 ---
 
-## 🤗 Model on HuggingFace
-
-**Access the model:** [huggingface.co/DeeptiSharma/legal-clause-risk-analyzer](https://huggingface.co/DeeptiSharma/legal-clause-risk-analyzer)
-
-- **Type:** LoRA adapter (PEFT)
-- **Base Model:** Qwen2.5-3B-Instruct
-- **Size:** 125 MB (adapter only)
-- **License:** Apache 2.0
-
----
-
 ## 🎯 Key Design Decisions
 
 ### Why Qwen2.5-3B?
